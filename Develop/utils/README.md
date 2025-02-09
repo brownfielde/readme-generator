@@ -1,7 +1,7 @@
 # Professional README Generator
-  
+  ![Static Badge](https://img.shields.io/badge/license-MIT-blue.svg)
   ## Description
-  A simple application designed to generate professional README files 
+  This application accepts user input and generates a professional grade README with the data.
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
@@ -10,16 +10,18 @@
   - [Tests](#tests)
   - [Questions](#questions)
   ## Installation
-  must first have NodeJS installed. Then, download Inquirer dependency to run program in CLI
+  first must have NodeJS, then install Inquirer package
   ## Usage
-  NodeJS
+  NodeJS, JavaScript, CLI 
   ## Screenshot 
-  ![alt text](./assets/readme-screenshot.png)
+  ![alt text](./assets/final-readme-generator)
   ## Contributors 
-  n/a
+  none at this time
   ## Tests 
-  run node index.js to ensure app functionality
+  run 'node index.js' to ensure functionality 
   ## License 
   MIT
+  ## Questions
+  Please send any questions or comments [to](mailto:shelleb93@gmail.com) or [github/brownfielde](https://github.com/brownfielde)
 
 

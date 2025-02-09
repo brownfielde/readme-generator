@@ -39,6 +39,17 @@ const questions =
         message: 'Insert the relative path to any relevant images'
     },
     {   type: 'input',
+        name: 'email',
+        message: 'Include your email'
+
+    },
+    {   
+        type: 'input',
+        name: 'github',
+        message: 'Include your GitHub profile'
+
+    },
+    {   type: 'input',
         name: 'contributors',
         message: 'Include any additional contributors',   
     },
